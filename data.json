@@ -1,0 +1,31 @@
+{
+  "favorites": [],
+  "groups": [
+    {
+      "id": "fa28fbb1-ad62-43bc-a4f6-be0268a73326",
+      "name": "📁 新分组",
+      "items": [
+        {
+          "id": "a7ed893b-f18b-4022-9ece-f1809c3738e7",
+          "name": "ls",
+          "command": "ls",
+          "shell": "cmd",
+          "working_dir": ""
+        }
+      ]
+    },
+    {
+      "id": "2ff416d4-e392-43a1-a3e4-bedab0841688",
+      "name": "😄卡巴斯基",
+      "items": [
+        {
+          "id": "15c0e591-d5d6-46ec-bb25-4c1eef51172e",
+          "name": "ClamAV杀毒",
+          "command": "echo '我是杀毒软件'",
+          "shell": "cmd",
+          "working_dir": ""
+        }
+      ]
+    }
+  ]
+}
